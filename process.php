@@ -32,6 +32,6 @@
 
     curl_close($ch);
 
-    echo "Submitted successfully";
+    echo " - Submitted successfully";
 
 ?>
