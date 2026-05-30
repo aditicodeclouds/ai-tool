@@ -57,6 +57,7 @@
     <p>Client Discovery + AI Proposal Generator</p>
 
     <form id="leadForm">
+        <input type="text" name="website" style="display:none">
         <input type="text" name="name" placeholder="Your Name" required>
 
         <input type="email" name="email" placeholder="Email Address" required>
